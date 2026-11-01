@@ -15,5 +15,3 @@
 - Java Gold
 - Oracle Master Bronze
 - AWS Associate
-=======
-# skill-tree
